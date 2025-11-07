@@ -13,3 +13,8 @@ Passionate and results-driven game developer with strong experience in building 
 
 
  <img src="https://openomy.app/svg?repo=cornel-cp/cornel-cp&chart=bubble&latestMonth=12" target="_blank" alt="Contribution Leaderboard" style="display: block; width: 100%;" />
+
+
+<img width="1920" height="1080" alt="combine" src="https://github.com/user-attachments/assets/ddac5c09-88e9-488f-a901-ce48b4cc24c4" />
+
+
